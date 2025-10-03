@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- I'm Kholoud Eldmairy from Egypt/Qalyubia<br><br>- 🔭 I’m  a Communications Engineering student at Benha University.<br><br>-💡 Data Analyst Enthusiast | Self-Learner<br>      Passionate about turning data into insights. Skilled in Python, SQL, Excel, and Power BI.<br> <br>- Here you’ll find my projects showcasing skills in Python, SQL, Excel, Power BI, and Machine Learning.<br><br>- 📚 I'm currently learning  Network  and cybersecurity.</p>
+<p align="left">- I'm Kholoud Mostafa Eldmairy <br><br>- 🔭 I’m  a Communications Engineering student at Benha University.<br><br>-💡 Data Analyst Enthusiast | Self-Learner<br>      Passionate about turning data into insights. Skilled in Python, SQL, Excel, and Power BI.<br> <br>- Here you’ll find my projects showcasing skills in Python, SQL, Excel, Power BI, and Machine Learning.<br><br>- 📚 I'm currently learning  Network  and cybersecurity.</p>
 
 ###
 
