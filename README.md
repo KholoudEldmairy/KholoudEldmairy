@@ -64,4 +64,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KholoudEldmairy/KholoudEldmairy/output/pacman-contribution-graph.svg">
 </picture>
 
-###   كنت عايزة اضيف verilog ,modelsim,vivado
